@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=itowhid06&show_icons=true&private=true&include_all_commits=true "My GitHub Stats")](https://github.com/itowhid06)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itowhid06&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itowhid06&private=true&layout=compact)
