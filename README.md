@@ -19,8 +19,17 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=itowhid06">
 </a>
 
-# GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=itowhid06&show_icons=true&private=true&include_all_commits=true "My GitHub Stats")](https://github.com/itowhid06)
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itowhid06&private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=itowhid06&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itowhid06&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itowhid06&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=itowhid06&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
