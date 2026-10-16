@@ -61,10 +61,6 @@ final class Developer
   <img src="https://streak-stats.demolab.com?user=itowhid06&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itowhid06&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution graph" />
-</p>
-
 <!-- Needs .github/workflows/snake.yml (see that file). Remove this block if you skip the workflow. -->
 <p align="center">
   <picture>
