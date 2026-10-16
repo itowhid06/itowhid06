@@ -32,16 +32,6 @@ final class Developer
     public string $location = 'Dhaka, Bangladesh 🇧🇩';
     public int    $since    = 2015; // writing code on GitHub for 10+ years
 
-    public array $building_now = [
-        'Divi 5 — the visual builder behind millions of WordPress sites',
-    ];
-
-    public array $side_quests = [
-        'AI-powered desktop apps',
-        'GNOME Shell extensions',
-        'WordPress developer tooling',
-    ];
-
     public array $daily_drivers = [ 'TypeScript', 'React', 'Redux', 'PHP', 'WordPress', 'Linux' ];
 
     public function motto(): string
